@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Has several and, not, and other basic gates (XOR). Meant to be a demo test for simple logic gates.
+
+<img width="634" height="260" alt="image" src="https://github.com/user-attachments/assets/c508b20e-2e4d-4f1a-8729-aacc0cd291eb" />
 
 ## How to test
 
-Explain how to use your project
+Turn A & B & C on & off. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Seven Segment Display
