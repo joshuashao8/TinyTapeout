@@ -9,9 +9,9 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Has several and, not, and other basic gates (XOR). Meant to be a demo test for simple logic gates.
+Has only or & and gates. Meant to be a demo test for simple logic gates.
+<img width="651" height="230" alt="image" src="https://github.com/user-attachments/assets/69a04a06-def8-492e-bee9-2624944004a4" />
 
-<img width="634" height="260" alt="image" src="https://github.com/user-attachments/assets/c508b20e-2e4d-4f1a-8729-aacc0cd291eb" />
 
 ## How to test
 
